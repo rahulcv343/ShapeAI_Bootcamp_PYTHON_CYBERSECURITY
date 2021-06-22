@@ -1,0 +1,14 @@
+-------------------------------------------------------------
+Weather Stats for - PALAKKAD  || 22 Jun 2021 | 10:59:17 AM
+-------------------------------------------------------------
+Current temperature is: 31.03 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 69 %
+Current wind speed    : 5.14 kmph
+-------------------------------------------------------------
+Weather Stats for - THRISSUR  || 22 Jun 2021 | 11:00:00 AM
+-------------------------------------------------------------
+Current temperature is: 29.99 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 75 %
+Current wind speed    : 2.88 kmph
